@@ -1,0 +1,7 @@
+﻿  lab6.cpp
+C:\Users\dima\Desktop\Лабы\melonLabs\lab6\lab6\lab6.cpp(32,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dima\Desktop\Лабы\melonLabs\lab6\lab6\lab6.cpp(34,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dima\Desktop\Лабы\melonLabs\lab6\lab6\lab6.cpp(94,38): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\dima\Desktop\Лабы\melonLabs\lab6\lab6\lab6.cpp(96,62): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\dima\Desktop\Лабы\melonLabs\lab6\lab6\lab6.cpp(116,20): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  lab6.vcxproj -> C:\Users\dima\Desktop\Лабы\melonLabs\lab6\x64\Debug\lab6.exe

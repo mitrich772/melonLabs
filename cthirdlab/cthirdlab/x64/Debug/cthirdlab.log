@@ -1,0 +1,2 @@
+﻿  cthirdlab.cpp
+C:\Users\dima\source\repos\cthirdlab\cthirdlab\cthirdlab.cpp(11): error C4700: использована неинициализированная локальная переменная "a"

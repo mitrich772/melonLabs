@@ -1,0 +1,4 @@
+﻿  task2.cpp
+C:\Users\dima\source\repos\cthirdlab\cthirdlab\task2.cpp(8,9): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+task2.obj : error LNK2005: main уже определен в cthirdlab.obj
+C:\Users\dima\source\repos\cthirdlab\x64\Release\cthirdlab.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
